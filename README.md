@@ -6,8 +6,11 @@ To ad dress this a prospective clinical trial across 6 European countries (Franc
 •	A: PBL: penicillin + beta-lactamase inhibitor. 
 •	OBL: other beta-lactamase antibiotics. 
 •	FQN: fluoroquinolones. 
+
 The samples were sequenced using 16S microbial profiling and their microbial richness (Chao) and evenness (Shannon) and beta-diversity distance (between D1 and D6, Jclass) was assessed.
+
 We are interested in the following outcomes:
+
 •	Changes in between the baseline samples across various countries, gender and age-stratas
 •	Changes over time (D1, D6 and Stool) for each antibiotics
 •	Changes across antibiotics over time
