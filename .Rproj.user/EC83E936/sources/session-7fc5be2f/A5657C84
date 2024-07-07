@@ -1,0 +1,28 @@
+{
+    "id": "A5657C84",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1685490533706.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "id": "04186846119e40309534b240458c3c72",
+        "name": "linear_reg",
+        "title": "linear_reg",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3977584679978165353,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1685490533706,
+    "read_only": false,
+    "read_only_alternatives": []
+}
